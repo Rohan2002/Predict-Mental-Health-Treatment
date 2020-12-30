@@ -1,0 +1,1 @@
+To install import_ipynb, we first need to install nbformat as import_ipynb references that package. import_ipynb is just a script rather than a packet so the dependency doesn't get listed in setup.py
